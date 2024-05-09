@@ -1,2 +1,2 @@
 # BMI_Calculator_WPF
-![alt]("C:\Users\minhn\Pictures\Screenshots\BMI.png")
+![alt]("D:\Documents\Repositories\BMI-Calculator-SE161781\image\BMI.png")
